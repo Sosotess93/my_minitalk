@@ -4,7 +4,7 @@ Project that contains a server and a client which communicate between us only wi
 # Installation && Tools
 Just need to run 'make' on linux system.
 
-Usage
+Usage :</br>
 ./server/server -> wait an PID in output</br>
 ./client/client [PID_SERVER] [MSG_TO_SEND]
 

@@ -5,8 +5,8 @@ Project that contains a server and a client which communicate between us only wi
 Just need to run 'make' on linux system.
 
 Usage
-./server1 -> wait an PID in output
-./client1 [PID_SERVER] [MSG_TO_SEND]
+./server/server -> wait an PID in output</br>
+./client/client [PID_SERVER] [MSG_TO_SEND]
 
 # History
 First year project at Epitech (European Institute of Technology). 

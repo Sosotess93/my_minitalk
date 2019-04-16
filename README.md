@@ -9,5 +9,5 @@ Usage :</br>
 ./client/client [PID_SERVER] [MSG_TO_SEND]
 
 # History
-First year project at Epitech (European Institute of Technology). 
+First year project at Epitech (European Institute of Technology).</br>
 Open subject pdf for more information.

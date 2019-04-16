@@ -5,7 +5,7 @@
 ## Login   <charra_s@epitech.net>
 ## 
 ## Started on  Thu Mar  5 23:26:34 2015 Sofiane Charrad
-## Last update Tue Apr 16 14:01:48 2019 sofiane
+## Last update Tue Apr 16 14:11:29 2019 sofiane
 ##
 
 CC	=	gcc
@@ -42,7 +42,7 @@ clean:
 		$(RM) $(OBJ) $(OBJ1)
 
 fclean:		clean
-		$(RM) $(NAME) $(NAME1)
+		$(RM) ./client/$(NAME) ./server/$(NAME1)
 
 re:		fclean all
 
